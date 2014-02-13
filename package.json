@@ -1,0 +1,15 @@
+{
+  "name": "node_crud",
+  "version": "0.0.1",
+  "description": "Simple demo to create CRUD for resources",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Fidelis <rafa_fidelis@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "extend": "~1.2.1",
+    "express": "~3.4.8"
+  }
+}
